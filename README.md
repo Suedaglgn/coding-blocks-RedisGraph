@@ -1,1 +1,1 @@
-pythonProject
+Useful queries for Redis Graph
